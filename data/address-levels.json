@@ -1,0 +1,271 @@
+[
+{ "tags" : {
+      "place" : {
+          "sea" : [2, 0],
+          "island" : [17, 0],
+          "islet" : [20, 0],
+          "continent" : [2, 0],
+          "country" : [4, 0],
+          "state" : [8, 0],
+          "province" : [8, 0],
+          "region" : [18, 0],
+          "county" : 12,
+          "district" : 12,
+          "municipality" : 14,
+          "city" : 16,
+          "town" : [18, 16],
+          "borough" : 18,
+          "village" : [19, 16],
+          "suburb" : [19, 20],
+          "hamlet" : 20,
+          "croft" : 20,
+          "subdivision" : 22,
+          "allotments" : 22,
+          "neighbourhood" : 24,
+          "quarter" : [20, 22],
+          "isolated_dwelling" : [22, 25],
+          "farm" : [22, 25],
+          "city_block" : 25,
+          "mountain_pass" : 25,
+          "square" : 25,
+          "locality" : 25,
+          "houses" : [28, 0],
+          "house" : 30,
+          "" : [22, 0]
+      },
+      "boundary" : {
+          "administrative2" : 4,
+          "administrative3" : 6,
+          "administrative4" : 8,
+          "administrative5" : 10,
+          "administrative6" : 12,
+          "administrative7" : 14,
+          "administrative8" : 16,
+          "administrative9" : 18,
+          "administrative10" : 20,
+          "administrative11" : 22,
+          "administrative12" : 24,
+          "" : [25, 0]
+      },
+      "landuse" : {
+          "residential" : 24,
+          "farm" : 24,
+          "farmyard" : 24,
+          "industrial" : 24,
+          "commercial" : 24,
+          "allotments" : 24,
+          "retail" : 24,
+          "" : [24, 0]
+      },
+      "leisure" : {
+          "park" : [24, 0],
+          "nature_reserve" : [24, 0],
+          "garden": [25, 0],
+          "common": [25, 0]
+      },
+      "natural" : {
+          "peak" : [18, 0],
+          "volcano" : [18, 0],
+          "mountain_range" : [18, 0],
+          "sea" : [4, 0],
+          "tree" : 30,
+          "spring"  : 30,
+          "cave_entrance" : 30,
+          "geyser" : 30,
+          "hot_spring" : 30,
+          "rock" : 30,
+          "stone" : 30,
+          "" : [22, 0]
+      },
+      "water" : {
+          "lake" : [20, 0],
+          "reservoir" : [20, 0],
+          "wastewater" : [24, 0],
+          "pond" : [24, 0],
+          "fountain" : [24, 0],
+          "" : [22, 0]
+      },
+      "waterway" : {
+          "river" : [19, 0],
+          "stream" : [22, 0],
+          "ditch" : [22, 0],
+          "drain" : [22, 0],
+          "" : [20, 0]
+      },
+      "highway" : {
+          "" : 30,
+          "service" : 27,
+          "cycleway" : 27,
+          "path" : 27,
+          "footway" : 27,
+          "steps" : 27,
+          "bridleway" : 27,
+          "motorway_link" : 27,
+          "primary_link" : 27,
+          "trunk_link" : 27,
+          "secondary_link" : 27,
+          "tertiary_link" : 27,
+          "residential" : 26,
+          "track" : 26,
+          "unclassified" : 26,
+          "tertiary" : 26,
+          "secondary" : 26,
+          "primary" : 26,
+          "living_street" : 26,
+          "trunk" : 26,
+          "motorway" : 26,
+          "pedestrian" : 26,
+          "road" : 26,
+          "construction" : 26
+      },
+      "mountain_pass" : {
+          "" : [20, 0]
+      },
+      "historic" : {
+          "neighbourhood" : [22, 0]
+      }
+  }
+},
+{ "countries" : [ "au" ],
+  "tags" : {
+      "boundary" : {
+          "administrative6": [12, 0]
+      }
+  }
+},
+{ "countries" : [ "ca" ],
+  "tags" : {
+      "place" : {
+          "county" : [12, 0]
+      }
+  }
+},
+{ "countries": [ "cz" ],
+  "tags" : {
+      "boundary" : {
+          "administrative5": 12,
+          "administrative6": [13, 0],
+          "administrative7": [14, 0],
+          "administrative8": 14,
+          "administrative9": 15,
+          "administrative10": 16
+      }
+  }
+},
+{ "countries" : [ "de" ],
+  "tags" : {
+      "place" : {
+          "region" : [10, 0],
+          "county" : [12, 0]
+      },
+      "boundary" : {
+          "administrative5" : [10, 0]
+      }
+  }
+},
+{ "countries" : [ "be" ],
+  "tags" : {
+      "boundary" : {
+          "administrative3" : [5, 0],
+          "administrative4" : 6,
+          "administrative5" : [7, 0],
+          "administrative6" : 8,
+          "administrative7" : 12,
+          "administrative8" : 14,
+          "administrative9" : 16,
+          "administrative10" : 18
+      }
+  }
+},
+{ "countries" : [ "br" ],
+  "tags" : {
+      "boundary" : {
+          "administrative5" : [10, 0],
+          "administrative6" : [12, 0],
+          "administrative7" : [14, 0]
+      }
+  }
+},
+{ "countries" : ["se", "no"],
+  "tags" : {
+      "place" : {
+      },
+      "boundary" : {
+          "administrative3" : 8,
+          "administrative4" : 12
+      }
+  }
+},
+{ "countries" : ["id"],
+  "tags" : {
+      "place" : {
+          "municipality" : 18
+      },
+      "boundary" : {
+          "administrative5" : 12,
+          "administrative6" : 14,
+          "administrative7" : 16,
+          "administrative8" : 20,
+          "administrative9" : 22,
+          "administrative10" : 24
+      }
+  }
+},
+{ "countries" : ["ru"],
+  "tags" : {
+      "place" : {
+          "municipality" : 18
+      },
+      "boundary" : {
+          "administrative5" : [10, 0],
+          "administrative7" : [13, 0],
+          "administrative8" : 14
+      }
+  }
+},
+{ "countries" : [ "nl" ],
+  "tags" : {
+      "boundary" : {
+          "administrative7" : [13, 0],
+          "administrative8" : 14,
+          "administrative9" : [15, 0],
+          "administrative10" : 16
+      }
+  }
+},
+{ "countries" : ["es"],
+  "tags" : {
+      "place" : {
+          "province" : 10,
+          "civil_parish" : 18
+      },
+      "boundary" : {
+          "administrative5" : [10, 0],
+          "administrative6" : 10,
+          "administrative7" : 12,
+          "administrative10" : 22
+      }
+  }
+},
+{ "countries" : ["sa"],
+  "tags" : {
+      "place" : {
+          "province" : 12,
+          "municipality" : 18
+      }
+  }
+},
+{ "countries" : ["jp"],
+  "tags" : {
+      "boundary" : {
+          "administrative7" : 16,
+          "administrative8" : 18,
+          "administrative9" : 20,
+          "administrative10" : 22,
+          "administrative11" : 24
+      }
+  }
+}
+
+]
+

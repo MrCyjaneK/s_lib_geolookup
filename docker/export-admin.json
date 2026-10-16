@@ -1,0 +1,24 @@
+{
+  "attributes": {
+    "type": true,
+    "id": true,
+    "version": false,
+    "changeset": false,
+    "timestamp": false,
+    "uid": false,
+    "user": false
+  },
+  "linear_tags": false,
+  "area_tags": true,
+  "include_tags": [
+    "name",
+    "admin_level",
+    "boundary",
+    "place",
+    "linked_place",
+    "ISO3166-1",
+    "ISO3166-1:alpha2",
+    "ISO3166-2",
+    "wikidata"
+  ]
+}

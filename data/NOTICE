@@ -1,0 +1,4 @@
+Nominatim address-levels.json is copied from
+https://github.com/osm-search/Nominatim/blob/master/settings/address-levels.json
+and is GPL-3.0-or-later (Nominatim). Label tables in nominatim.go follow
+src/nominatim_api/v1/classtypes.py (same project).
